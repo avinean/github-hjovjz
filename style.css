@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Test';
+  font-display: swap;
+  src: url('some-font.woff2');
+  font-weight: 700;
+}
+* {
+  font-family: Test;
+}
